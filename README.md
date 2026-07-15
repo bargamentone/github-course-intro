@@ -1,2 +1,5 @@
 # github-course-intro
-Introduction to Github
+Introduction to GitHub
+
+## About Me
+I am learning GitHub.
