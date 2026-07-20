@@ -9,3 +9,8 @@ Learning Git locally.
 
 ## For New Branch
 git checkout -b <name>
+
+## GitHub Desktop Practice
+
+## GitHub Desktop Branch
+Edit locally.
